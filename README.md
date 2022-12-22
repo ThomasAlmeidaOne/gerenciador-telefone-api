@@ -1,5 +1,5 @@
 # gerenciador-telefone-api
-Projeto de gerenciamento de usuarios e numeros de telefones sendo associados e utilizando o CRUD
+Projeto de gerenciamento de usuarios e numeros de telefones sendo associados utilizando o CRUD
 
 CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
 
